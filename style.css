@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather+Sans&display=swap');
+/* font-family: 'Merriweather Sans', sans-serif; */
+*{
+    text-align: center;
+    font-family: 'Merriweather Sans', sans-serif;
+    font-size: 50px;
+}
+body{
+    background-image: url("images/bground.jpg");
+}
+#container{
+    display: flex;
+    justify-content: space-evenly;
+    width: auto;
+}
